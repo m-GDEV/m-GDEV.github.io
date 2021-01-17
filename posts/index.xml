@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Posts on Tech Made Simple</title>
+    <link>https://m-GDEV.github.io/posts/</link>
+    <description>Recent content in Posts on Tech Made Simple</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>connectwthmusa@gmail.com (Musa Ahmed)</managingEditor>
+    <webMaster>connectwthmusa@gmail.com (Musa Ahmed)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 23 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://m-GDEV.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>How to host Hugo website on Github Pages</title>
+        <link>https://m-GDEV.github.io/posts/github-pages-with-hugo/</link>
+        <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+        <author>connectwthmusa@gmail.com (Musa Ahmed)</author>
+        <atom:modified>Wed, 23 Dec 2020 00:00:00 +0000</atom:modified>
+        <guid>https://m-GDEV.github.io/posts/github-pages-with-hugo/</guid>
+        <description>This is not finished How to host Hugo site on Github Pre-requisites   Github Account
+  Git (terminal utility)
+  How to change Directories in the terminal
+  Make a repo with the following name [username].github.io Please note that [username] indicates your own personal username.
+Get your Hugo files in order and place it in a folder designated for this project Make all neccesary changes you need to make to your content, config etc.</description>
+        
+        <dc:creator>Musa Ahmed</dc:creator>
+        <media:content url="https://m-GDEV.github.ioimages/Articles/Tutorials/hugo_pages.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>tutorial</category>
+            
+          
+            
+              <category>hugo</category>
+            
+          
+            
+              <category>Github</category>
+            
+          
+            
+              <category>Github Pages</category>
+            
+          
+        
+        
+          
+            
+              <category>Tutorials</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Begginers introduciton to installing and understanding Linux.</title>
+        <link>https://m-GDEV.github.io/posts/linux/</link>
+        <pubDate>Thu, 17 Dec 2020 13:39:35 -0500</pubDate>
+        <author>connectwthmusa@gmail.com (Musa Ahmed)</author>
+        <atom:modified>Thu, 17 Dec 2020 13:39:35 -0500</atom:modified>
+        <guid>https://m-GDEV.github.io/posts/linux/</guid>
+        <description>Guide to Installing Linux (for beginners) Introduction Hello, this guide is for Linux beginners who are looking to try Linux out don&amp;rsquo;t know where to start. Below is a table of contents that outlines all the things we will be covering in this guide.
+So what is Linux anyways? Linux is a family of open-source Unix-like operating systems based on the Linux kernel, an operating system kernel first released on September 17, 1991, by Linus Torvalds.</description>
+        
+        <dc:creator>Musa Ahmed</dc:creator>
+        <media:content url="https://m-GDEV.github.ioimages/Articles/Tutorials/linux_logo.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>tutorial</category>
+            
+          
+            
+              <category>hugo</category>
+            
+          
+        
+        
+          
+            
+              <category>Tutorials</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
